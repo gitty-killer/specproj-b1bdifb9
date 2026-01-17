@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-b1bdifb9"",
-  ""goal"": ""batch normalizer for workflow automation"",
-  ""language"": ""go"",
-  ""template"": ""go-service""
+    "name":  "specproj-b1bdifb9",
+    "goal":  "batch normalizer for workflow automation",
+    "language":  "go",
+    "template":  "go-service"
 }
